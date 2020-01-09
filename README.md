@@ -6,4 +6,4 @@ I am practicing Front-End Development. And I am sharing my journey on Github. By
 
 Below are the screenshots of Dark-Calculator
 
-![screenshot](/images/darkcalulator(1).jpg
+![screenshot](https://github.com/chiraganand9/Dark-Calculator/blob/master/images/Dark%20calulator%20(1).jpg)
